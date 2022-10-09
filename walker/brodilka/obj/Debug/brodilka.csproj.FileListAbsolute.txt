@@ -1,0 +1,8 @@
+C:\Users\ПК\Desktop\консольные приложения\brodilka\brodilka\bin\Debug\brodilka.exe.config
+C:\Users\ПК\Desktop\консольные приложения\brodilka\brodilka\bin\Debug\brodilka.exe
+C:\Users\ПК\Desktop\консольные приложения\brodilka\brodilka\bin\Debug\brodilka.pdb
+C:\Users\ПК\Desktop\консольные приложения\brodilka\brodilka\obj\Debug\brodilka.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\консольные приложения\brodilka\brodilka\obj\Debug\brodilka.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК\Desktop\консольные приложения\brodilka\brodilka\obj\Debug\brodilka.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\консольные приложения\brodilka\brodilka\obj\Debug\brodilka.exe
+C:\Users\ПК\Desktop\консольные приложения\brodilka\brodilka\obj\Debug\brodilka.pdb
